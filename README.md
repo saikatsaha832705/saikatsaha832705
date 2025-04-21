@@ -1,11 +1,31 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
 <!-- <h1 align="center">Hi 👋, I'm Saikat Saha</h1> -->
-<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Phleo+Delly;A+Web+Developer+and+a+Data+Analyst👨🏻‍💻;" style="width: 100%;">
-
-
-
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Saikat+Saha;A+Web+Developer+and+a+Data+Analyst👨🏻‍💻;" style="width: 100%;">
 <!--  -->
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h3 align="center">A passionate Web Developer </h3>
+<p align="center">A detail-oriented and results-driven web developer with a strong understanding of front-end and back-end technologies. Proficient in crafting scalable and user-friendly web applications, I continuously seek opportunities to leverage my skills in creating impactful digital experiences. Passionate about clean code and staying current with industry best practices. 🛠️</p>
+
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio">
+  </a>
+</p>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
+<br>
+
+<hr>
+
+<br>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikatsaha832705&label=Profile%20views&color=0e75b6&style=flat" alt="saikatsaha832705" /> </p>
 
