@@ -1,6 +1,11 @@
-![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
-<h1 align="center">Hi 👋, I'm Saikat Saha</h1>
-<h3 align="center">Web Developer & Data Analyst</h3>
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+
+<!-- <h1 align="center">Hi 👋, I'm Saikat Saha</h1> -->
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Phleo+Delly;A+Web+Developer+and+a+Data+Analyst👨🏻‍💻;" style="width: 100%;">
+
+
+
+<!--  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikatsaha832705&label=Profile%20views&color=0e75b6&style=flat" alt="saikatsaha832705" /> </p>
 
