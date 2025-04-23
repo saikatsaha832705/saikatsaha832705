@@ -10,7 +10,7 @@
 <p align="center">A detail-oriented and results-driven web developer with a strong understanding of front-end and back-end technologies. Proficient in crafting scalable and user-friendly web applications, I continuously seek opportunities to leverage my skills in creating impactful digital experiences. Passionate about clean code and staying current with industry best practices. 🛠️</p>
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://portfolio.saikat.online/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio">
   </a>
 </p>
