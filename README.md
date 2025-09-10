@@ -1,13 +1,13 @@
 ![MasterHead](github_head.gif)
 
 <!-- <h1 align="center">Hi 👋, I'm Saikat Saha</h1> -->
-<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Saikat+Saha;A+Web+Developer+and+a+Data+Analyst👨🏻‍💻;" style="width: 100%;">
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Saikat+Saha;I'm+a+Data+Analyst👨🏻‍💻;" style="width: 100%;">
 <!--  -->
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h3 align="center">A passionate Web Developer </h3>
-<p align="center">A detail-oriented and results-driven web developer with a strong understanding of front-end and back-end technologies. Proficient in crafting scalable and user-friendly web applications, I continuously seek opportunities to leverage my skills in creating impactful digital experiences. Passionate about clean code and staying current with industry best practices. 🛠️</p>
+<h3 align="center">A passionate Data Analyst </h3>
+<p align="center">Passionate Data Analyst with a strong enthusiasm for turning raw data into meaningful insights. Skilled in data cleaning, visualization, and statistical analysis. Always eager to explore patterns, optimize decision-making, and contribute to data-driven growth. Excited to continuously learn and apply analytical techniques to solve real-world business challenges. 🛠️</p>
 
 <p align="center">
   <a href="https://portfolio.saikat.online/" target="_blank">
@@ -31,11 +31,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Website](https://saikat.online/)
+- 🔭 I’m currently working on **ML Project**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Ai/ML**
 
-- 💬 Ask me about **WordPress**
+- 💬 Ask me about **Data Analysis Tools**
 
 - 📫 How to reach me **saikatsaha832705@gmail.com**
 
