@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+![MasterHead](github_head.gif)
 
 <!-- <h1 align="center">Hi 👋, I'm Saikat Saha</h1> -->
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Saikat+Saha;A+Web+Developer+and+a+Data+Analyst👨🏻‍💻;" style="width: 100%;">
